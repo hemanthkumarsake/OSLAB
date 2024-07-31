@@ -7,5 +7,5 @@
 # sample output
 ![sample_output](SJF_IO_528.png)
 
-#executed output
+# executed output
 ![executed_output](SJF_EO_528.png)
