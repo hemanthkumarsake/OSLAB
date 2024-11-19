@@ -5,7 +5,7 @@
 ![program_code](producer-consumer_code_528.png)
 
 # sample output
-![sample_output](producer-consumer_IO_528.png)
+![sample_output](producer-consumer_IO__528.png)
 
 # executed output
-![executed_output](producer-consumer_EO_528.png)
+![executed_output](producer-consumer_EO__528.png)
