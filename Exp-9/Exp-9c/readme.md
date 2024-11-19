@@ -2,7 +2,7 @@
 ![program_file](ROUND_ROBIN_528.py)
 
 # program code
-![program_code](ROUND_ROBIN_CODE_528.png.png)
+![program_code](ROUND_ROBIN_CODE.png.png)
 
 # sample output
 ![sample_output](ROUND_ROBIN_IO_528.png.png)
